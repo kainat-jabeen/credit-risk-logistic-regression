@@ -9,6 +9,7 @@ This project uses **logistic regression** to predict whether a loan application 
 ## 📁 Dataset
 
 - Source: [Kaggle - Credit Risk Dataset by ranadeep](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset)
+- **Note:** Due to GitHub's file size limit, the CSV file is not included in this repository.
 **File used:** `credit_risk_dataset.csv`
 - **Description:** The dataset contains demographic and financial information about loan applicants, including features like loan amount, term, interest rate, income, credit score, and default status.
 
